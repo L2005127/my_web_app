@@ -30,3 +30,5 @@ Dockerfile
 docker-compose*.yml
 README.md
 deploy_guide_aliyun.md
+
+# Railway auto deploy trigger (2026-09-14)
